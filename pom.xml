@@ -10,6 +10,7 @@
     <modules>
         <module>jms-kafka-connector</module>
         <module>hornetq-connector</module>
+        <module>ffmq-connector</module>
     </modules>
     <dependencyManagement>
         <dependencies>
